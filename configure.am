@@ -1,0 +1,9 @@
+<package>
+    <name>clay</name>
+    <version>0.1.0</version>
+    <desc></desc>
+    <require tag="c++">
+	<require tag="compiler"/>
+    </require>
+    <require tag="atlas"/>
+</package>

@@ -1,0 +1,17 @@
+2000-12-04  Al Riddoch  <ajr@ecs.soton.ac.uk>
+
+	* Fixed connection setup not returning 0
+
+2000-11-28  Al Riddoch  <ajr@ecs.soton.ac.uk>
+
+	* Tidied up some legacy includes and classes
+
+2000-11-11  Al Riddoch  <ajr@ecs.soton.ac.uk>
+
+	* Moved Client class into its own files
+
+	* Fixed up the logging in an creating character code so it now works.
+
+2000-11-11  Al Riddoch  <ajr@ecs.soton.ac.uk>
+
+	* Re-wrote all Atlas related code to use new Atlas-C++.
